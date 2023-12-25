@@ -1,5 +1,5 @@
-# shelldo
-
+## shelldo
+------------------
 Conquer your task list from the comfort of your terminal with shelldo.
 
 ## Description
