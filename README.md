@@ -22,15 +22,19 @@ Perfect for:
 ## Usage
 ----------------
 Clone the repository:
+```
 git clone https://github.com/ianeyinda/shelldo.git
-
+```
 Navigate to the directory:
+```
 cd shelldo
 Changing file permission:
 chmod +x shelldo.sh
+```
 Run the script:
+```
 ./shelldo.sh
-
+```
 ## Contributing
 -----------------
 Feel free to suggest improvements, report issues, or submit pull requests.
