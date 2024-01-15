@@ -28,7 +28,9 @@ git clone https://github.com/ianeyinda/shelldo.git
 Navigate to the directory:
 ```
 cd shelldo
+```
 Changing file permission:
+```
 chmod +x shelldo.sh
 ```
 Run the script:
